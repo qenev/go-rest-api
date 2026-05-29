@@ -1,0 +1,16 @@
+# Go REST API
+
+A lightweight in-memory REST API server built with Go's standard library.
+
+## Endpoints
+| Method | Route | Description |
+|--------|-------|-------------|
+| GET    | /api/items       | List all items  |
+| GET    | /api/items/{id}  | Get single item |
+| POST   | /api/items       | Create item     |
+| DELETE | /api/items/{id}  | Delete item     |
+
+## Run
+```bash
+go run ./cmd/server
+```
