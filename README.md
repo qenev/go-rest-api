@@ -165,3 +165,4 @@ go run ./cmd/server
 <!-- Clean up variable names -->
 <!-- Clean up comments -->
 <!-- Document parameters -->
+<!-- Format comments -->
