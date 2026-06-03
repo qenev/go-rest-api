@@ -60,3 +60,4 @@ go run ./cmd/server
 <!-- Format comments -->
 <!-- Optimize structure -->
 <!-- Clean up error messages -->
+<!-- Clean up structure -->
