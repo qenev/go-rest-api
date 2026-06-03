@@ -212,3 +212,4 @@ go run ./cmd/server
 <!-- Document error messages -->
 <!-- Clean up documentation -->
 <!-- Format error messages -->
+<!-- Document logic flow -->
