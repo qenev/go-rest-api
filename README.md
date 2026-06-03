@@ -98,3 +98,4 @@ go run ./cmd/server
 <!-- Clean up configuration -->
 <!-- Optimize error messages -->
 <!-- Refactor documentation -->
+<!-- Clean up documentation -->
