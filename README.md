@@ -88,3 +88,4 @@ go run ./cmd/server
 <!-- Optimize configuration -->
 <!-- Update variable names -->
 <!-- Format logic flow -->
+<!-- Update documentation -->
