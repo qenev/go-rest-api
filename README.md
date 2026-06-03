@@ -86,3 +86,4 @@ go run ./cmd/server
 <!-- Clean up configuration -->
 <!-- Format configuration -->
 <!-- Optimize configuration -->
+<!-- Update variable names -->
