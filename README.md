@@ -28,3 +28,4 @@ go run ./cmd/server
 <!-- Refactor configuration -->
 <!-- Improve structure -->
 <!-- Optimize variable names -->
+<!-- Document logic flow -->
