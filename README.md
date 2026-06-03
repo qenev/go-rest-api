@@ -84,3 +84,4 @@ go run ./cmd/server
 <!-- Document structure -->
 <!-- Tweak error messages -->
 <!-- Clean up configuration -->
+<!-- Format configuration -->
