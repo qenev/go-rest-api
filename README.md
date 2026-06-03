@@ -80,3 +80,4 @@ go run ./cmd/server
 <!-- Refactor structure -->
 <!-- Document parameters -->
 <!-- Tweak error messages -->
+<!-- Refactor configuration -->
