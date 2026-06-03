@@ -104,3 +104,4 @@ go run ./cmd/server
 <!-- Update configuration -->
 <!-- Improve variable names -->
 <!-- Tweak structure -->
+<!-- Optimize comments -->
