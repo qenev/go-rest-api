@@ -93,3 +93,4 @@ go run ./cmd/server
 <!-- Improve parameters -->
 <!-- Refactor error messages -->
 <!-- Clean up comments -->
+<!-- Document configuration -->
