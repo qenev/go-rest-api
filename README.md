@@ -99,3 +99,4 @@ go run ./cmd/server
 <!-- Optimize error messages -->
 <!-- Refactor documentation -->
 <!-- Clean up documentation -->
+<!-- Improve error messages -->
