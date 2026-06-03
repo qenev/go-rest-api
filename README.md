@@ -96,3 +96,4 @@ go run ./cmd/server
 <!-- Document configuration -->
 <!-- Optimize configuration -->
 <!-- Clean up configuration -->
+<!-- Optimize error messages -->
