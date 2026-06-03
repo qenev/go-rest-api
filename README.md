@@ -218,3 +218,4 @@ go run ./cmd/server
 <!-- Clean up structure -->
 <!-- Optimize configuration -->
 <!-- Update variable names -->
+<!-- Format structure -->
