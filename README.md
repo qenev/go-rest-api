@@ -79,3 +79,4 @@ go run ./cmd/server
 <!-- Document configuration -->
 <!-- Refactor structure -->
 <!-- Document parameters -->
+<!-- Tweak error messages -->
