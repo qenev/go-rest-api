@@ -111,3 +111,4 @@ go run ./cmd/server
 <!-- Tweak comments -->
 <!-- Improve configuration -->
 <!-- Improve structure -->
+<!-- Tweak variable names -->
