@@ -110,3 +110,4 @@ go run ./cmd/server
 <!-- Update error messages -->
 <!-- Tweak comments -->
 <!-- Improve configuration -->
+<!-- Improve structure -->
