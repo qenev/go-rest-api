@@ -146,3 +146,4 @@ go run ./cmd/server
 <!-- Clean up structure -->
 <!-- Format documentation -->
 <!-- Clean up parameters -->
+<!-- Improve configuration -->
