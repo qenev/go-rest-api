@@ -51,3 +51,4 @@ go run ./cmd/server
 <!-- Document configuration -->
 <!-- Format parameters -->
 <!-- Refactor configuration -->
+<!-- Improve error messages -->
