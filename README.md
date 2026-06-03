@@ -187,3 +187,4 @@ go run ./cmd/server
 <!-- Clean up structure -->
 <!-- Improve parameters -->
 <!-- Tweak documentation -->
+<!-- Refactor structure -->
