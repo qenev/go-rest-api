@@ -144,3 +144,4 @@ go run ./cmd/server
 <!-- Improve logic flow -->
 <!-- Optimize comments -->
 <!-- Clean up structure -->
+<!-- Format documentation -->
