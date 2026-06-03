@@ -180,3 +180,4 @@ go run ./cmd/server
 <!-- Clean up configuration -->
 <!-- Clean up structure -->
 <!-- Tweak comments -->
+<!-- Clean up logic flow -->
