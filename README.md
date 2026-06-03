@@ -44,3 +44,4 @@ go run ./cmd/server
 <!-- Tweak error messages -->
 <!-- Document variable names -->
 <!-- Improve variable names -->
+<!-- Clean up variable names -->
