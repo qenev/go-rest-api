@@ -107,3 +107,4 @@ go run ./cmd/server
 <!-- Optimize comments -->
 <!-- Clean up logic flow -->
 <!-- Update logic flow -->
+<!-- Update error messages -->
