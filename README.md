@@ -172,3 +172,4 @@ go run ./cmd/server
 <!-- Update structure -->
 <!-- Improve logic flow -->
 <!-- Tweak documentation -->
+<!-- Document configuration -->
