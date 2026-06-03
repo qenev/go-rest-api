@@ -35,3 +35,4 @@ go run ./cmd/server
 <!-- Format structure -->
 <!-- Format documentation -->
 <!-- Refactor error messages -->
+<!-- Format error messages -->
