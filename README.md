@@ -102,3 +102,4 @@ go run ./cmd/server
 <!-- Improve error messages -->
 <!-- Tweak documentation -->
 <!-- Update configuration -->
+<!-- Improve variable names -->
