@@ -47,3 +47,4 @@ go run ./cmd/server
 <!-- Clean up variable names -->
 <!-- Optimize variable names -->
 <!-- Optimize documentation -->
+<!-- Format comments -->
