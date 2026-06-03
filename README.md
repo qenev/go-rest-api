@@ -155,3 +155,4 @@ go run ./cmd/server
 <!-- Clean up configuration -->
 <!-- Tweak documentation -->
 <!-- Format comments -->
+<!-- Format documentation -->
