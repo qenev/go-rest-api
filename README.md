@@ -69,3 +69,4 @@ go run ./cmd/server
 <!-- Document comments -->
 <!-- Tweak documentation -->
 <!-- Clean up variable names -->
+<!-- Format comments -->
