@@ -75,3 +75,4 @@ go run ./cmd/server
 <!-- Format logic flow -->
 <!-- Update error messages -->
 <!-- Document structure -->
+<!-- Document logic flow -->
