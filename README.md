@@ -213,3 +213,4 @@ go run ./cmd/server
 <!-- Clean up documentation -->
 <!-- Format error messages -->
 <!-- Document logic flow -->
+<!-- Update documentation -->
