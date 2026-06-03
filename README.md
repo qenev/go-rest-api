@@ -26,3 +26,4 @@ go run ./cmd/server
 <!-- Document configuration -->
 <!-- Format comments -->
 <!-- Refactor configuration -->
+<!-- Improve structure -->
