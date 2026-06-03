@@ -34,3 +34,4 @@ go run ./cmd/server
 <!-- Improve comments -->
 <!-- Format structure -->
 <!-- Format documentation -->
+<!-- Refactor error messages -->
