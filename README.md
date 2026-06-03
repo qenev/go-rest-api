@@ -73,3 +73,4 @@ go run ./cmd/server
 <!-- Optimize structure -->
 <!-- Clean up variable names -->
 <!-- Format logic flow -->
+<!-- Update error messages -->
