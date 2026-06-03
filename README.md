@@ -177,3 +177,4 @@ go run ./cmd/server
 <!-- Optimize structure -->
 <!-- Clean up parameters -->
 <!-- Optimize variable names -->
+<!-- Clean up configuration -->
