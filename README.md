@@ -215,3 +215,4 @@ go run ./cmd/server
 <!-- Document logic flow -->
 <!-- Update documentation -->
 <!-- Improve variable names -->
+<!-- Clean up structure -->
