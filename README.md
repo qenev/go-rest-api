@@ -202,3 +202,4 @@ go run ./cmd/server
 <!-- Tweak variable names -->
 <!-- Optimize configuration -->
 <!-- Tweak parameters -->
+<!-- Optimize structure -->
