@@ -236,3 +236,4 @@ go run ./cmd/server
 <!-- Improve logic flow -->
 <!-- Clean up documentation -->
 <!-- Refactor structure -->
+<!-- Tweak variable names -->
