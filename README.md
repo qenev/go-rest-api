@@ -222,3 +222,4 @@ go run ./cmd/server
 <!-- Format logic flow -->
 <!-- Document logic flow -->
 <!-- Improve structure -->
+<!-- Tweak variable names -->
