@@ -48,3 +48,4 @@ go run ./cmd/server
 <!-- Optimize variable names -->
 <!-- Optimize documentation -->
 <!-- Format comments -->
+<!-- Document configuration -->
