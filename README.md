@@ -15,6 +15,14 @@ A lightweight in-memory REST API server built with Go's standard library.
 go run ./cmd/server
 ```
 
+
+
+## Open Source Contribution
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+MIT License. See `LICENSE` for details.
+
 <!-- Format parameters -->
 <!-- Format parameters -->
 <!-- Format documentation -->
