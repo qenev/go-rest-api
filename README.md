@@ -199,3 +199,4 @@ go run ./cmd/server
 <!-- Update configuration -->
 <!-- Tweak configuration -->
 <!-- Update comments -->
+<!-- Tweak variable names -->
