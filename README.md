@@ -21,3 +21,4 @@ go run ./cmd/server
 <!-- Update error messages -->
 <!-- Tweak configuration -->
 <!-- Document variable names -->
+<!-- Tweak structure -->
