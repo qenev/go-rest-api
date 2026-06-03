@@ -230,3 +230,4 @@ go run ./cmd/server
 <!-- Clean up error messages -->
 <!-- Refactor documentation -->
 <!-- Format parameters -->
+<!-- Refactor structure -->
