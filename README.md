@@ -74,3 +74,4 @@ go run ./cmd/server
 <!-- Clean up variable names -->
 <!-- Format logic flow -->
 <!-- Update error messages -->
+<!-- Document structure -->
