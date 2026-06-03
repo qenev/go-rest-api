@@ -14,3 +14,5 @@ A lightweight in-memory REST API server built with Go's standard library.
 ```bash
 go run ./cmd/server
 ```
+
+<!-- Format parameters -->
