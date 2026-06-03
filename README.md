@@ -76,3 +76,4 @@ go run ./cmd/server
 <!-- Update error messages -->
 <!-- Document structure -->
 <!-- Document logic flow -->
+<!-- Document configuration -->
