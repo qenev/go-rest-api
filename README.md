@@ -77,3 +77,4 @@ go run ./cmd/server
 <!-- Document structure -->
 <!-- Document logic flow -->
 <!-- Document configuration -->
+<!-- Refactor structure -->
