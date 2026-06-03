@@ -27,3 +27,4 @@ go run ./cmd/server
 <!-- Format comments -->
 <!-- Refactor configuration -->
 <!-- Improve structure -->
+<!-- Optimize variable names -->
