@@ -149,3 +149,4 @@ go run ./cmd/server
 <!-- Improve configuration -->
 <!-- Update documentation -->
 <!-- Optimize variable names -->
+<!-- Clean up error messages -->
