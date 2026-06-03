@@ -41,3 +41,4 @@ go run ./cmd/server
 <!-- Improve documentation -->
 <!-- Format logic flow -->
 <!-- Update logic flow -->
+<!-- Tweak error messages -->
