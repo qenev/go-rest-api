@@ -109,3 +109,4 @@ go run ./cmd/server
 <!-- Update logic flow -->
 <!-- Update error messages -->
 <!-- Tweak comments -->
+<!-- Improve configuration -->
