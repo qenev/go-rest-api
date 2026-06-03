@@ -174,3 +174,4 @@ go run ./cmd/server
 <!-- Tweak documentation -->
 <!-- Document configuration -->
 <!-- Format parameters -->
+<!-- Optimize structure -->
