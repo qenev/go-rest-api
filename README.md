@@ -63,3 +63,4 @@ go run ./cmd/server
 <!-- Clean up structure -->
 <!-- Optimize variable names -->
 <!-- Clean up error messages -->
+<!-- Improve logic flow -->
