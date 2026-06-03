@@ -182,3 +182,4 @@ go run ./cmd/server
 <!-- Tweak comments -->
 <!-- Clean up logic flow -->
 <!-- Optimize comments -->
+<!-- Document structure -->
