@@ -105,3 +105,4 @@ go run ./cmd/server
 <!-- Improve variable names -->
 <!-- Tweak structure -->
 <!-- Optimize comments -->
+<!-- Clean up logic flow -->
