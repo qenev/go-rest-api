@@ -85,3 +85,4 @@ go run ./cmd/server
 <!-- Tweak error messages -->
 <!-- Clean up configuration -->
 <!-- Format configuration -->
+<!-- Optimize configuration -->
