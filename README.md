@@ -70,3 +70,4 @@ go run ./cmd/server
 <!-- Tweak documentation -->
 <!-- Clean up variable names -->
 <!-- Format comments -->
+<!-- Optimize structure -->
