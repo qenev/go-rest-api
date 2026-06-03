@@ -139,3 +139,4 @@ go run ./cmd/server
 <!-- Optimize configuration -->
 <!-- Improve error messages -->
 <!-- Update error messages -->
+<!-- Document logic flow -->
