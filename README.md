@@ -91,3 +91,4 @@ go run ./cmd/server
 <!-- Update documentation -->
 <!-- Tweak configuration -->
 <!-- Improve parameters -->
+<!-- Refactor error messages -->
