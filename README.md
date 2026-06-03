@@ -71,3 +71,4 @@ go run ./cmd/server
 <!-- Clean up variable names -->
 <!-- Format comments -->
 <!-- Optimize structure -->
+<!-- Clean up variable names -->
