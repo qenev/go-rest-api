@@ -224,3 +224,4 @@ go run ./cmd/server
 <!-- Improve structure -->
 <!-- Tweak variable names -->
 <!-- Update comments -->
+<!-- Improve logic flow -->
