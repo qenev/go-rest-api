@@ -66,3 +66,4 @@ go run ./cmd/server
 <!-- Improve logic flow -->
 <!-- Update error messages -->
 <!-- Clean up error messages -->
+<!-- Document comments -->
