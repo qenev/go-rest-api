@@ -183,3 +183,4 @@ go run ./cmd/server
 <!-- Clean up logic flow -->
 <!-- Optimize comments -->
 <!-- Document structure -->
+<!-- Document error messages -->
