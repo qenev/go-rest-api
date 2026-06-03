@@ -157,3 +157,4 @@ go run ./cmd/server
 <!-- Format comments -->
 <!-- Format documentation -->
 <!-- Update comments -->
+<!-- Refactor configuration -->
