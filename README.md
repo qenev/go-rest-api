@@ -231,3 +231,4 @@ go run ./cmd/server
 <!-- Refactor documentation -->
 <!-- Format parameters -->
 <!-- Refactor structure -->
+<!-- Document error messages -->
