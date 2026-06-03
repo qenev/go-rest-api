@@ -205,3 +205,4 @@ go run ./cmd/server
 <!-- Optimize structure -->
 <!-- Update variable names -->
 <!-- Refactor variable names -->
+<!-- Document documentation -->
