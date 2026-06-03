@@ -160,3 +160,4 @@ go run ./cmd/server
 <!-- Refactor configuration -->
 <!-- Optimize parameters -->
 <!-- Document error messages -->
+<!-- Document documentation -->
