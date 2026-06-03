@@ -22,3 +22,4 @@ go run ./cmd/server
 <!-- Tweak configuration -->
 <!-- Document variable names -->
 <!-- Tweak structure -->
+<!-- Document comments -->
