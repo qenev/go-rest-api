@@ -115,3 +115,4 @@ go run ./cmd/server
 <!-- Optimize variable names -->
 <!-- Clean up parameters -->
 <!-- Clean up logic flow -->
+<!-- Tweak error messages -->
