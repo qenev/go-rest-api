@@ -166,3 +166,4 @@ go run ./cmd/server
 <!-- Clean up comments -->
 <!-- Document parameters -->
 <!-- Format comments -->
+<!-- Refactor structure -->
