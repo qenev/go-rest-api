@@ -33,3 +33,4 @@ go run ./cmd/server
 <!-- Tweak structure -->
 <!-- Improve comments -->
 <!-- Format structure -->
+<!-- Format documentation -->
