@@ -188,3 +188,4 @@ go run ./cmd/server
 <!-- Improve parameters -->
 <!-- Tweak documentation -->
 <!-- Refactor structure -->
+<!-- Optimize error messages -->
