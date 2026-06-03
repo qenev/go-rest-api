@@ -83,3 +83,4 @@ go run ./cmd/server
 <!-- Refactor configuration -->
 <!-- Document structure -->
 <!-- Tweak error messages -->
+<!-- Clean up configuration -->
