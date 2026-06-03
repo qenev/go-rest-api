@@ -134,3 +134,4 @@ go run ./cmd/server
 <!-- Update parameters -->
 <!-- Update comments -->
 <!-- Refactor documentation -->
+<!-- Optimize error messages -->
