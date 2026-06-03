@@ -181,3 +181,4 @@ go run ./cmd/server
 <!-- Clean up structure -->
 <!-- Tweak comments -->
 <!-- Clean up logic flow -->
+<!-- Optimize comments -->
