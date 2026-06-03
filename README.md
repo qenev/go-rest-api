@@ -68,3 +68,4 @@ go run ./cmd/server
 <!-- Clean up error messages -->
 <!-- Document comments -->
 <!-- Tweak documentation -->
+<!-- Clean up variable names -->
