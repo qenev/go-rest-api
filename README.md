@@ -103,3 +103,4 @@ go run ./cmd/server
 <!-- Tweak documentation -->
 <!-- Update configuration -->
 <!-- Improve variable names -->
+<!-- Tweak structure -->
