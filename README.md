@@ -168,3 +168,4 @@ go run ./cmd/server
 <!-- Format comments -->
 <!-- Refactor structure -->
 <!-- Tweak comments -->
+<!-- Document parameters -->
