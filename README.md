@@ -129,3 +129,4 @@ go run ./cmd/server
 <!-- Format error messages -->
 <!-- Format comments -->
 <!-- Optimize logic flow -->
+<!-- Clean up structure -->
