@@ -227,3 +227,4 @@ go run ./cmd/server
 <!-- Improve logic flow -->
 <!-- Optimize structure -->
 <!-- Tweak logic flow -->
+<!-- Clean up error messages -->
