@@ -56,3 +56,4 @@ go run ./cmd/server
 <!-- Format documentation -->
 <!-- Document logic flow -->
 <!-- Tweak structure -->
+<!-- Format configuration -->
