@@ -232,3 +232,4 @@ go run ./cmd/server
 <!-- Format parameters -->
 <!-- Refactor structure -->
 <!-- Document error messages -->
+<!-- Clean up error messages -->
