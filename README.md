@@ -228,3 +228,4 @@ go run ./cmd/server
 <!-- Optimize structure -->
 <!-- Tweak logic flow -->
 <!-- Clean up error messages -->
+<!-- Refactor documentation -->
