@@ -24,3 +24,4 @@ go run ./cmd/server
 <!-- Tweak structure -->
 <!-- Document comments -->
 <!-- Document configuration -->
+<!-- Format comments -->
