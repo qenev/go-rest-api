@@ -29,3 +29,4 @@ go run ./cmd/server
 <!-- Improve structure -->
 <!-- Optimize variable names -->
 <!-- Document logic flow -->
+<!-- Format documentation -->
