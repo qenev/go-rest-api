@@ -119,3 +119,4 @@ go run ./cmd/server
 <!-- Improve structure -->
 <!-- Format configuration -->
 <!-- Refactor comments -->
+<!-- Format structure -->
