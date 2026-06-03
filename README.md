@@ -150,3 +150,4 @@ go run ./cmd/server
 <!-- Update documentation -->
 <!-- Optimize variable names -->
 <!-- Clean up error messages -->
+<!-- Clean up documentation -->
