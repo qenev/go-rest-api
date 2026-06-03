@@ -125,3 +125,4 @@ go run ./cmd/server
 <!-- Clean up error messages -->
 <!-- Clean up error messages -->
 <!-- Optimize error messages -->
+<!-- Optimize documentation -->
