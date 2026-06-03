@@ -161,3 +161,4 @@ go run ./cmd/server
 <!-- Optimize parameters -->
 <!-- Document error messages -->
 <!-- Document documentation -->
+<!-- Clean up configuration -->
