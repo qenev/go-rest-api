@@ -214,3 +214,4 @@ go run ./cmd/server
 <!-- Format error messages -->
 <!-- Document logic flow -->
 <!-- Update documentation -->
+<!-- Improve variable names -->
