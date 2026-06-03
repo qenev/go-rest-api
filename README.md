@@ -78,3 +78,4 @@ go run ./cmd/server
 <!-- Document logic flow -->
 <!-- Document configuration -->
 <!-- Refactor structure -->
+<!-- Document parameters -->
