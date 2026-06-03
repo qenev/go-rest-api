@@ -185,3 +185,4 @@ go run ./cmd/server
 <!-- Document structure -->
 <!-- Document error messages -->
 <!-- Clean up structure -->
+<!-- Improve parameters -->
