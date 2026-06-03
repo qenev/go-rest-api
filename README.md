@@ -43,3 +43,4 @@ go run ./cmd/server
 <!-- Update logic flow -->
 <!-- Tweak error messages -->
 <!-- Document variable names -->
+<!-- Improve variable names -->
