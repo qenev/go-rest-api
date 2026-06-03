@@ -54,3 +54,4 @@ go run ./cmd/server
 <!-- Improve error messages -->
 <!-- Tweak error messages -->
 <!-- Format documentation -->
+<!-- Document logic flow -->
