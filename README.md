@@ -221,3 +221,4 @@ go run ./cmd/server
 <!-- Format structure -->
 <!-- Format logic flow -->
 <!-- Document logic flow -->
+<!-- Improve structure -->
