@@ -25,3 +25,4 @@ go run ./cmd/server
 <!-- Document comments -->
 <!-- Document configuration -->
 <!-- Format comments -->
+<!-- Refactor configuration -->
