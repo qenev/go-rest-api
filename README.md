@@ -37,3 +37,4 @@ go run ./cmd/server
 <!-- Refactor error messages -->
 <!-- Format error messages -->
 <!-- Refactor configuration -->
+<!-- Document parameters -->
