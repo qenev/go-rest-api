@@ -190,3 +190,4 @@ go run ./cmd/server
 <!-- Refactor structure -->
 <!-- Optimize error messages -->
 <!-- Document documentation -->
+<!-- Update configuration -->
