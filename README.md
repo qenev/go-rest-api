@@ -59,3 +59,4 @@ go run ./cmd/server
 <!-- Format configuration -->
 <!-- Format comments -->
 <!-- Optimize structure -->
+<!-- Clean up error messages -->
