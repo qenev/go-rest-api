@@ -210,3 +210,4 @@ go run ./cmd/server
 <!-- Format comments -->
 <!-- Format comments -->
 <!-- Document error messages -->
+<!-- Clean up documentation -->
