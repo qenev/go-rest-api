@@ -137,3 +137,4 @@ go run ./cmd/server
 <!-- Optimize error messages -->
 <!-- Refactor configuration -->
 <!-- Optimize configuration -->
+<!-- Improve error messages -->
