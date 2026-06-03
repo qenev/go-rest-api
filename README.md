@@ -53,3 +53,4 @@ go run ./cmd/server
 <!-- Refactor configuration -->
 <!-- Improve error messages -->
 <!-- Tweak error messages -->
+<!-- Format documentation -->
