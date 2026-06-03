@@ -30,3 +30,4 @@ go run ./cmd/server
 <!-- Optimize variable names -->
 <!-- Document logic flow -->
 <!-- Format documentation -->
+<!-- Tweak structure -->
