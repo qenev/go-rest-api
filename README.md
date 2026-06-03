@@ -162,3 +162,4 @@ go run ./cmd/server
 <!-- Document error messages -->
 <!-- Document documentation -->
 <!-- Clean up configuration -->
+<!-- Clean up variable names -->
