@@ -55,3 +55,4 @@ go run ./cmd/server
 <!-- Tweak error messages -->
 <!-- Format documentation -->
 <!-- Document logic flow -->
+<!-- Tweak structure -->
