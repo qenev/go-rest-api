@@ -101,3 +101,4 @@ go run ./cmd/server
 <!-- Clean up documentation -->
 <!-- Improve error messages -->
 <!-- Tweak documentation -->
+<!-- Update configuration -->
