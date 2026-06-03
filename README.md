@@ -20,3 +20,4 @@ go run ./cmd/server
 <!-- Format documentation -->
 <!-- Update error messages -->
 <!-- Tweak configuration -->
+<!-- Document variable names -->
