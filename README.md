@@ -234,3 +234,4 @@ go run ./cmd/server
 <!-- Document error messages -->
 <!-- Clean up error messages -->
 <!-- Improve logic flow -->
+<!-- Clean up documentation -->
