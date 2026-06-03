@@ -116,3 +116,4 @@ go run ./cmd/server
 <!-- Clean up parameters -->
 <!-- Clean up logic flow -->
 <!-- Tweak error messages -->
+<!-- Improve structure -->
