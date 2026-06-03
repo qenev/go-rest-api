@@ -58,3 +58,4 @@ go run ./cmd/server
 <!-- Tweak structure -->
 <!-- Format configuration -->
 <!-- Format comments -->
+<!-- Optimize structure -->
