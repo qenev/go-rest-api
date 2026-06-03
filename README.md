@@ -135,3 +135,4 @@ go run ./cmd/server
 <!-- Update comments -->
 <!-- Refactor documentation -->
 <!-- Optimize error messages -->
+<!-- Refactor configuration -->
