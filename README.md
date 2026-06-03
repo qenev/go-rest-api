@@ -81,3 +81,4 @@ go run ./cmd/server
 <!-- Document parameters -->
 <!-- Tweak error messages -->
 <!-- Refactor configuration -->
+<!-- Document structure -->
