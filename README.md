@@ -164,3 +164,4 @@ go run ./cmd/server
 <!-- Clean up configuration -->
 <!-- Clean up variable names -->
 <!-- Clean up comments -->
+<!-- Document parameters -->
