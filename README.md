@@ -120,3 +120,4 @@ go run ./cmd/server
 <!-- Format configuration -->
 <!-- Refactor comments -->
 <!-- Format structure -->
+<!-- Optimize configuration -->
