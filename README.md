@@ -235,3 +235,4 @@ go run ./cmd/server
 <!-- Clean up error messages -->
 <!-- Improve logic flow -->
 <!-- Clean up documentation -->
+<!-- Refactor structure -->
