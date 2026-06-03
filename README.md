@@ -220,3 +220,4 @@ go run ./cmd/server
 <!-- Update variable names -->
 <!-- Format structure -->
 <!-- Format logic flow -->
+<!-- Document logic flow -->
