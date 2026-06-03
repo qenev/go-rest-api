@@ -50,3 +50,4 @@ go run ./cmd/server
 <!-- Format comments -->
 <!-- Document configuration -->
 <!-- Format parameters -->
+<!-- Refactor configuration -->
